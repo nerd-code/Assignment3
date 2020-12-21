@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+		<string-array name="questions">
+			<item>Q1 - What is the date of birth of Quaid-e-Azam?</item>
+			<item>Q2 - Where was Quaid-e-Azam born?</item>
+			<item>Q3 - What was the name of the building where Quaid-e-Azam was born?</item>
+			<item>Q4 - What was the name of his father?−</item>
+			<item>Q5 - What was the name of his mother?</item>
+			<item>Q6 - What was his mother tongue?</item>
+			<item>Q7 - What was the name of his first wife?−</item>
+			<item>Q8 - When did his mother die?</item>
+			<item>Q9 - When did his father die?</item>
+			<item>Q10 - What was the name of his second wife?</item>
+		</string-array>
+		
+		<string-array name="choices">
+			<item>December 22</item>
+			<item>December 24</item>
+			<item>December 25</item>
+			<item>Lahore</item>
+			<item>Karachi</item>
+			<item>Bengal</item>
+			<item>Wazir Mansion in Kharadar</item>
+			<item>Amir Mansion in Lahore</item>
+			<item>Jinnah Mansion in Karachi</item>
+			<item>Sardar Jinnahbhai</item>
+			<item>Ahmed Poonja Jinnah</item>
+			<item>Jinnahbhai Poonja</item>
+			<item>Emibai</item>
+			<item>Mithibai</item>
+			<item>Simibai</item>
+			<item>Hindi</item>
+			<item>Urdu</item>
+			<item>Gujrati</item>
+			<item>Emibai</item>
+			<item>Simibai</item>
+			<item>Mithibai</item>
+			<item>1893</item>
+			<item>1894</item>
+			<item>1899</item>
+			<item>1902</item>
+			<item>1903</item>
+			<item>1905</item>
+			<item>Simibai</item>
+			<item>Emibai</item>
+			<item>Ratanbai</item>
+		</string-array>
+		
+		<string-array name="corrects">
+			<item>December 25</item>
+			<item>Karachi</item>
+			<item>Wazir Mansion in Kharadar</item>
+			<item>Jinnahbhai Poonja</item>
+			<item>Mithibai</item>
+			<item>Gujrati</item>
+			<item>Emibai</item>
+			<item>1893</item>
+			<item>1902</item>
+			<item>Ratanbai</item>
+		</string-array>
+	</resources>
